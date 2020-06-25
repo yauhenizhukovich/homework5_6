@@ -3,7 +3,7 @@ package com.gmail.supersonicleader.service.exception;
 public class CreateTableException extends Throwable {
 
     public CreateTableException(String message) {
-		System.out.println("hi");
+		System.out.println("hi there");
         super(message);
     }
 
